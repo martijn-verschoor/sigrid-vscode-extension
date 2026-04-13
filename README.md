@@ -60,7 +60,7 @@ This extension contributes the following settings:
 To build and test the extension locally:
 
 ```bash
-npm install:all
+npm run install:all
 npm run build:webview
 npm run compile
 ```
@@ -79,7 +79,7 @@ To run the extension in VS Code for debugging:
 To build a Visual Studio Code VSIX package file:
 
 ```bash
-npm install:all
+npm run install:all
 npm run package
 ```
 
